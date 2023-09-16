@@ -4,6 +4,7 @@ const Main = () => {
   return (
     <div>
       Main Component
+      <div>New update</div>
     </div>
   )
 }
